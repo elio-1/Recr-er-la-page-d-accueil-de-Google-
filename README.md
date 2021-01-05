@@ -27,4 +27,6 @@ J'ai aussi eu un probleme avec le footer qui lorsque je reduit la fenetre, comme
 
 En tout cas c'etait bien intense, mais cool et j'ai appris plein de trucs.
 
+***
+
 Merci de m'avoir lu, n'hesitez pas a faire des retours.
